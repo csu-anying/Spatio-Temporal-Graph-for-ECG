@@ -28,8 +28,15 @@ Hefei High-Tech Cup (HFHC) Dataset contains 20335 medical ECG samples and was pr
 # :question:How to use
 ## :pencil2:Data Preprocessing
 In order to use a data set, you need to process the data set first
+```
+python data_preprocessing/preprocessing.py
+```
 ## :page_with_curl:Modify parameter file
+
 ## :arrow_forward:Run code 
+```
+python main.py
+```
 
 # Acknowledgement
 We thank the codes for [link](https://github.com/Frank-Wang-oss/FCSTGNN)
