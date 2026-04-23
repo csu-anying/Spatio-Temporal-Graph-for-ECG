@@ -1,5 +1,5 @@
 # Spatial-Temporal-ECG
-The code for paper "STAR: A Spatio-Temporal Dynamic Graph Learning Framework for Automated ECG Classification"
+The code for paper "CardioLoom: A Dynamic Graph Learning Framework for Capturing Multiscale Spatio-temporal Dependencies in ECG Classification"
 # Requirements
 In order to run this project, you need to install the following packages:
 * pytorch 1.12
